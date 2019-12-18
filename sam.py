@@ -4,4 +4,5 @@ if a=="stc" and a=="123":
   print("welcome to stc")
 else:
   print("welcome to cts")
-    
+  print("shyam")
+  print("sam")
